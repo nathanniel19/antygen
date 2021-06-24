@@ -18,7 +18,7 @@ const Biodata = () => {
             <Card.Body><b>Nama Lengkap:</b> Muh. Sulaeman</Card.Body>
             <Card.Body><b>NIK:</b> 3328131007930003</Card.Body>
             <Card.Body><b>Jenis Kelamin:</b> Laki-Laki</Card.Body>
-            <Card.Body><b>Tempat, Tanggal Lahir:</b> ..., 10-07-1993</Card.Body>
+            <Card.Body><b>Tempat, Tanggal Lahir:</b> Tegal, 10-07-1993</Card.Body>
             <Card.Body><b>Layanan:</b> Swab Antigen</Card.Body>
         </Card>
       </div>
